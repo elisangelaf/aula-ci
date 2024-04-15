@@ -1,3 +1,2 @@
-modulo github.com/elisangelaf/aula-ci
-
-go 1.20 
+module elisangelaf.com/aula-ci
+go 1.20
